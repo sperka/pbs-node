@@ -1,0 +1,24 @@
+{
+	"name": "pbs-node"
+	, "version": "0.0.1"
+	, "description": "node port for pbs"
+	, "keywords": ["pbs", "torque", "openpbs"]
+	, "author": "Gergely Varga <greg@sph3r.com>"
+	, "repository": { "type": "git", "url": "git://github.com/sperka/pbs-node.git" }
+	, "main": "./index"
+	, "bin": { "pbs-node": "./bin/pbs_node" }
+	, "engines": { "node": ">= 0.4.x" }
+	, "scripts": {
+		"test": "make test"
+  }
+  , "dependencies":{
+	  "commander": "0.5.x"
+	, "growl": "1.5.x"
+	, "jade": "0.20.3"
+	, "diff": "1.0.2"
+	, "debug": "*"
+  }
+  , "devDependencies": {
+		"should": "*"
+  }
+}
