@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo 'vanderwaals
+          state = free
+          np = 4
+          ntype = cluster
+          jobs = 0/54.vanderwaals, 1/55.vanderwaals
+          status = rectime=1336417071,varattr=,jobs=54.vanderwaals 55.vanderwaals,state=free,netload=19324700,gres=,loadave=2.00,ncpus=8,physmem=6089768kb,availmem=13387296kb,totmem=14248992kb,idletime=15587,nusers=3,nsessions=4,sessions=4775 5217 5260 7056,uname=Linux vanderwaals 2.6.18-308.4.1.el5 #1 SMP Tue Apr 17 17:08:00 EDT 2012 x86_64,opsys=linux
+          mom_service_port = 15002
+          mom_manager_port = 15003
+          gpus = 2
+
+
+     vanderwaals2
+               state = free
+               np = 4
+               ntype = cluster
+               jobs = 0/54.vanderwaals, 1/55.vanderwaals
+               status = rectime=1336417071,varattr=,jobs=54.vanderwaals 55.vanderwaals,state=free,netload=19324700,gres=,loadave=2.00,ncpus=8,physmem=6089768kb,availmem=13387296kb,totmem=14248992kb,idletime=15587,nusers=3,nsessions=4,sessions=4775 5217 5260 7056,uname=Linux vanderwaals 2.6.18-308.4.1.el5 #1 SMP Tue Apr 17 17:08:00 EDT 2012 x86_64,opsys=linux
+               mom_service_port = 15002
+               mom_manager_port = 15003
+               gpus = 2
+'
