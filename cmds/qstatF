@@ -1,0 +1,45 @@
+#!/bin/bash
+
+echo 'Job Id: 72.vanderwaals
+          Job_Name = s456ep1
+          Job_Owner = user@vanderwaals
+          resources_used.cput = 08:11:31
+          resources_used.mem = 1482820kb
+          resources_used.vmem = 25700672kb
+          resources_used.walltime = 08:11:33
+          job_state = R
+          queue = batch
+          server = vanderwaals
+          Checkpoint = u
+          ctime = Fri May 18 11:12:08 2012
+          Error_Path = vanderwaals:/home/user/confined_odt/4_5_
+      	6_layers/ep1/cut5/s456ep1.e72
+          exec_host = vanderwaals/0
+          exec_port = 15003
+          exec_gpus = vanderwaals-gpu/0
+          Hold_Types = n
+          Join_Path = oe
+          Keep_Files = n
+          Mail_Points = abe
+          Mail_Users = cri@umich.edu
+          mtime = Sun May 20 09:27:45 2012
+          Output_Path = vanderwaals:/home/user/confined_odt/4_5
+      	_6_layers/ep1/cut5/s456ep1.o72
+          Priority = 0
+          qtime = Fri May 18 11:12:08 2012
+          Rerunable = True
+          Resource_List.nodect = 1
+          Resource_List.nodes = 1:ppn=1:gpus=1
+          Resource_List.walltime = 164:02:00
+          session_id = 17880
+          comment = Job started on Sun May 20 at 09:27
+          etime = Fri May 18 11:12:08 2012
+          submit_args = -V queue.sh
+          start_time = Sun May 20 09:27:45 2012
+          Walltime.Remaining = 560968
+          start_count = 1
+          fault_tolerant = False
+          job_radix = 0
+          submit_host = vanderwaals
+          init_work_dir = /home/user/confined_odt/4_5_6_layers/ep1/cut5
+'
