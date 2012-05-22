@@ -21,7 +21,7 @@ describe('Cluster', function() {
 		done();
 	});
 
-	it('Should get cluster', function(done) {
+	it('Should get the cluster', function(done) {
 		Cluster.getCluster(function(err, result) {
 			should.not.exist(err);
 
