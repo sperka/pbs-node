@@ -3,4 +3,4 @@
 echo 'Job id                    Name             User            Time Use S Queue
 ------------------------- ---------------- --------------- -------- - -----
 54.vanderwaals             IL_w0.25s0.5     user            07:39:21 R batch
-55.vanderwaals             IL_w0.05s0.5     user            07:39:11 R batch          '
+55.vanderwaals             IL_w0.05s0.5     user            07:39:11 Q batch          '
