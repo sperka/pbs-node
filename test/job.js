@@ -40,6 +40,6 @@ describe('Job', function() {
 		// get job by id
 
 		// delete job
-		
+
 	});
 });
