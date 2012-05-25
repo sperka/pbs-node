@@ -8,4 +8,4 @@
 require('./lib/helpers/helpers');
 
 // PBS
-require('./lib/pbs');
+module.exports = require('./lib/pbs');
