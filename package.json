@@ -6,15 +6,12 @@
 	, "author": "Gergely Varga <greg@sph3r.com>"
 	, "repository": { "type": "git", "url": "git://github.com/sperka/pbs-node.git" }
 	, "main": "./index"
-	, "bin": { "pbs-node": "./bin/pbs_node" }
 	, "engines": { "node": ">= 0.4.x" }
 	, "scripts": {
 		"test": "make test"
   }
-  , "dependencies":{
-		"debug": "*"
-  }
   , "devDependencies": {
+		"debug": "*",
 		"should": "*"
   }
 }
