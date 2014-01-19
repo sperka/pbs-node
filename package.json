@@ -1,6 +1,6 @@
 {
 	"name": "pbs-node"
-	, "version": "0.0.2"
+	, "version": "0.0.3"
 	, "description": "node port for pbs"
 	, "keywords": ["pbs", "torque", "openpbs"]
 	, "author": "Gergely Varga <greg@sph3r.com>"
